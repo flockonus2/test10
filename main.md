@@ -1,4 +1,4 @@
 # pizza
 
-- tomato
+- tomato - 1
 - pepperoni
